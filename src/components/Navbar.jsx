@@ -1,7 +1,6 @@
 /* -------------------------------------------- */
 /*                //* Navbar.jsx                */
 /* -------------------------------------------- */
-import { useEffect } from 'react';
 import { NavList } from '../lib/molecules';
 
 function Navbar() {
